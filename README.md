@@ -10,4 +10,4 @@ I develop [websites](https://kiki-search.herokuapp.com), [discord bots](https://
 
 #### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiki7000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kiki7000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiki7000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff?hide=css,javascript)](https://github.com/kiki7000/github-readme-stats)
