@@ -3,6 +3,8 @@
 I am a student developer in South Korea.
 I develop websites and discord bots. 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiki7000&count_bg=%2371E1FF&title_bg=%23555555&icon=github.svg&icon_color=%2371E1FF&title=Users+Who+watched+this&edge_flat=true)](https://hits.seeyoufarm.com)
+
 #### Github Status
 
 [![kiki7000's github stats](https://github-readme-stats.vercel.app/api?username=kiki7000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kiki7000/github-readme-stats)
