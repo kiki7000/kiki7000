@@ -5,17 +5,45 @@ I develop websites and discord bots.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiki7000&count_bg=%2371E1FF&title_bg=%23555555&icon=github.svg&icon_color=%2371E1FF&title=Users+Who+watched+this&edge_flat=true)](https://hits.seeyoufarm.com)
 
-#### Github Status
+### Github Status
 
 [![kiki7000's github stats](https://github-readme-stats.vercel.app/api?username=kiki7000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kiki7000/github-readme-stats)
 
-#### Top Langs
+### Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiki7000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kiki7000/github-readme-stats)
 
-#### Skills
+### Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff) 
+![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=fff) 
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C&logoColor=fff) 
 
-![Python](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&logo=python&logoColor=fff) 
-![node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) ![Java](https://img.shields.io/badge/-Java-f8582a?style=for-the-badge&logo=java&logoColor=fff) ![C++](https://img.shields.io/badge/-C++-00ff00?style=for-the-badge&logoColor=fff) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff) 
+#### Backend
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=fff) 
+![node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) 
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) 
+![BootStrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff) 
+
+#### App
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=fff)
 
+#### Programs
+![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=fff) 
+![Visual Studio](https://img.shields.io/badge/-VS-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff) 
+![Visual Studio Code](https://img.shields.io/badge/-VSC-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff) 
+![Filezilla](https://img.shields.io/badge/-Filezilla-BF0000?style=for-the-badge&logo=Filezilla&logoColor=fff) 
+
+#### ETC
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=fff) 
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=fff) 
+
+### Things to Learn
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=fff) 
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=fff) 
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=fff) 
