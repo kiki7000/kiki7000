@@ -59,3 +59,4 @@ I develop websites and discord bots.
 + [Github](https://github.com/kiki7000)
 + [BaekJoon](https://www.acmicpc.net/user/kiki7000)
 + [Stackoverflow](https://stackoverflow.com/users/13678229/kiki7000)
++ [Spotify](https://open.spotify.com/user/igt8mer5x8qzvnalxnhuiaar2)
