@@ -5,6 +5,13 @@ I develop websites and discord bots.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiki7000&count_bg=%2371E1FF&title_bg=%23555555&icon=github.svg&icon_color=%2371E1FF&title=Users+Who+watched+this&edge_flat=true)](https://hits.seeyoufarm.com)
 
+### Projects
++ [CHDP](https://github.com/kiki7000/chdp) - Command Handler for Discord.Py
++ [SansScript](https://github.com/kiki7000/sansscript) - A small Interpreter Wa!
++ [ReplaceFace](https://github.com/kiki7000/ReplaceFace) - Replace faces
+
+[See More...](https://github.com/kiki7000?tab=repositories)
+
 ### Github Status
 
 [![kiki7000's github stats](https://github-readme-stats.vercel.app/api?username=kiki7000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kiki7000/github-readme-stats)
@@ -47,3 +54,8 @@ I develop websites and discord bots.
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=fff) 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=fff) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=fff) 
+
+### Links
++ [Github](https://github.com/kiki7000)
++ [BaekJoon](https://www.acmicpc.net/user/kiki7000)
++ [Stackoverflow](https://stackoverflow.com/users/13678229/kiki7000)
