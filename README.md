@@ -26,6 +26,9 @@ I develop websites and discord bots.
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C&logoColor=fff) 
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiki7000)](https://solved.ac/kiki7000)
+
 #### Backend
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=fff) 
 ![node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) 
