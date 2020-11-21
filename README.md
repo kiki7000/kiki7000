@@ -52,12 +52,12 @@ I develop websites and discord bots.
 #### ETC
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff) 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=fff) 
-![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=fff) 
 
 ### Things to Learn
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=fff) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=fff) 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff) 
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=fff) 
 
 ### Links
 + [Github](https://github.com/kiki7000)
