@@ -1,14 +1,14 @@
 # 🟣 kiki7000 🟣
 😎 Hi! I am **kiki7000**. 
 I am a student developer in South Korea.
-I develop websites and discord bots. 
+I want to be a **full stack developer**.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiki7000&count_bg=%2371E1FF&title_bg=%23555555&icon=github.svg&icon_color=%2371E1FF&title=Users+Who+watched+this&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ### Projects
-+ [CHDP](https://github.com/kiki7000/chdp) - Command Handler for Discord.Py
++ [Dex.py](https://dexpy.readthedocs.io) - Discord.py extension (On development)
 + [SansScript](https://github.com/kiki7000/sansscript) - A small Interpreter Wa!
-+ [ReplaceFace](https://github.com/kiki7000/ReplaceFace) - Replace faces
++ [ReplaceFace](http://replaceface.devkiki.xyz) - Replace faces 
 
 [See More...](https://github.com/kiki7000?tab=repositories)
 
@@ -31,21 +31,19 @@ I develop websites and discord bots.
 
 #### Backend
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=fff) 
-![node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) 
+Sanic,
+Express
 
 #### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) 
-![BootStrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff) 
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=fff) 
-
-#### App
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=fff)
+![SCSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) 
+![BootStrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff) 
+semantic-ui
 
 #### Programs
-![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=fff) 
-![Visual Studio](https://img.shields.io/badge/-VS-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff) 
 ![Visual Studio Code](https://img.shields.io/badge/-VSC-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff) 
+![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=fff) 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff) 
 ![Filezilla](https://img.shields.io/badge/-Filezilla-BF0000?style=for-the-badge&logo=Filezilla&logoColor=fff) 
 
@@ -54,9 +52,9 @@ I develop websites and discord bots.
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=fff) 
 
 ### Things to Learn
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff) 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=fff) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=fff) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff) 
 ![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=fff) 
 
 ### Links
